@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "start": "node app.js",
     "lint": "eslint",
     "check-lint": "lint [0-9]*.js",
     "dev": "npx babel-node",
